@@ -1,3 +1,3 @@
- <b># Portfólio Técnico<\b> 
+ # Portfólio Técnico 
 Lucas Malfatti Rieth 
 2A SENAI
