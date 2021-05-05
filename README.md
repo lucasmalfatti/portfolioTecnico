@@ -2,12 +2,12 @@
 ## Lucas Malfatti Rieth 
 ### Programação 
 Estudante de JAVA, HTML5 e CSS <br/>
-2 certficados em lógica de programação pelo IFRS
-Cursando o Ensino Médio Técnico em Desenvolvimentos de Sistemas no SENAi de São José SC
-Estudando HTML 5 e CSS 3 pelas plataformas Curso em Vídeo e cataline.io
+2 certficados em lógica de programação pelo IFRS <br/>
+Cursando o Ensino Médio Técnico em Desenvolvimentos de Sistemas no SENAi de São José SC <br/>
+Estudando HTML 5 e CSS 3 pelas plataformas Curso em Vídeo e cataline.io <br/>
 ### Inglês
-Minha compreensão na leitura de textos em inglês é mediana 
-Minha comunicação em inglês é mediana
+Minha compreensão na leitura de textos em inglês é mediana <br/>
+Minha comunicação em inglês é mediana <br/>
 ### Espanhol
-Minha compreensão na leitura de textos em espanhol é alta
-Minha comunicação em espanhol é mediana 
+Minha compreensão na leitura de textos em espanhol é alta <br/>
+Minha comunicação em espanhol é mediana <br/>
