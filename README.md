@@ -7,3 +7,4 @@ Tenho 16 anos, sou morador de Florianópolis. Sou uma pessoa muito comunicativa 
 [Vetores_nomes.sh](FundamentosTI/exemplos/Vetores_nomes.sh) <br>
 [médiadevalores.sh](FundamentosTI/exemplos/médiadevalores.sh) <br>
 [valorinteiro.sh](FundamentosTI/exemplos/valorinteiro.sh) <br>
+### Fundamentos de TI
