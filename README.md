@@ -8,4 +8,6 @@ Tenho 16 anos, sou morador de Florianópolis. Sou uma pessoa muito comunicativa 
 [médiadevalores.sh](FundamentosTI/exemplos/médiadevalores.sh) <br>
 [valorinteiro.sh](FundamentosTI/exemplos/valorinteiro.sh) <br>
 ### Lógica De Programação
-[controleDePeso.java](
+[controleDePeso.java](LógicaDeProgramação/controleDePeso.java) <br>
+[espelho.java](LógicaDeProgramação/espelho.java) <br>
+[idadeScanner.java](LógicaDeProgramação/idadeScanner.java) <br>
