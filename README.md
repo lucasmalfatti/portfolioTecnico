@@ -1,7 +1,7 @@
  # Portfólio Técnico 
 ## Lucas Malfatti Rieth 
 ### Sobre mim
-Tenho 16 anos, sou morador de Florianópolis. Sou uma pessoa muito comunicativa e que tenta sempre ser proativo!
+Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de Sistemas no Senai de São José.
 ### Fundamentos de TI
 [VetoresWhile.sh](FundamentosTI/exemplos/VetoresWhile.sh) <br>
 [Vetores_nomes.sh](FundamentosTI/exemplos/Vetores_nomes.sh) <br>
