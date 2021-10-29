@@ -11,3 +11,4 @@ Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de 
 [controleDePeso.java](LógicaDeProgramação/controleDePeso.java) <br>
 [espelho.java](LógicaDeProgramação/espelho.java) <br>
 [idadeScanner.java](LógicaDeProgramação/idadeScanner.java) <br>
+<a href="https://github.com/lucasmalfatti/portfolioTecnico2A/tree/main/L%C3%B3gicaDePrograma%C3%A7%C3%A3o/CadastraAluno">Cadastro de Aluno</a>
