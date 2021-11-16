@@ -3,12 +3,12 @@
 ### Sobre mim
 Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de Sistemas no Senai de São José.
 ### Fundamentos de TI
-[VetoresWhile.sh](FundamentosTI/exemplos/VetoresWhile.sh) <br>
-[Vetores_nomes.sh](FundamentosTI/exemplos/Vetores_nomes.sh) <br>
-[médiadevalores.sh](FundamentosTI/exemplos/médiadevalores.sh) <br>
-[valorinteiro.sh](FundamentosTI/exemplos/valorinteiro.sh) <br>
-### Lógica De Programação
-[controleDePeso](LógicaDeProgramação/controleDePeso.java) <br>
-[espelho.java](LógicaDeProgramação/espelho.java) <br>
-[idadeScanner.java](LógicaDeProgramação/idadeScanner.java) <br>
+[Vetores While](FundamentosTI/exemplos/VetoresWhile.sh) <br>
+[Vetores Nomes](FundamentosTI/exemplos/Vetores_nomes.sh) <br>
+[Média de Valores](FundamentosTI/exemplos/médiadevalores.sh) <br>
+[valor Inteiro](FundamentosTI/exemplos/valorinteiro.sh) <br>
+### Lógica de Programação
+[Controle De Peso](LógicaDeProgramação/controleDePeso.java) <br>
+[Espelho](LógicaDeProgramação/espelho.java) <br>
+[Idade Scanner](LógicaDeProgramação/idadeScanner.java) <br>
 <a href="https://github.com/lucasmalfatti/portfolioTecnico2A/tree/main/L%C3%B3gicaDePrograma%C3%A7%C3%A3o/CadastraAluno">Cadastro de Aluno</a>
