@@ -12,3 +12,4 @@ Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de 
 [Espelho](LógicaDeProgramação/espelho.java) <br>
 [Idade Scanner](LógicaDeProgramação/idadeScanner.java) <br>
 <a href="https://github.com/lucasmalfatti/portfolioTecnico2A/tree/main/L%C3%B3gicaDePrograma%C3%A7%C3%A3o/CadastraAluno">Cadastro de Aluno</a>
+<a href="https://github.com/lucasmalfatti/portfolioTecnico2A/tree/main/FundamentosTI/exemplos/PetShop">PetShop
