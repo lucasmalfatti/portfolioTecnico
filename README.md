@@ -3,6 +3,7 @@
 ### Sobre mim
 Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de Sistemas no Senai de São José.
 ### Fundamentos de TI
+#### Todos os programas abaixo foram escritos usando shell script
 [Vetores While](FundamentosTI/exemplos/VetoresWhile.sh) <br>
 [Vetores Nomes](FundamentosTI/exemplos/Vetores_nomes.sh) <br>
 [Média de Valores](FundamentosTI/exemplos/médiadevalores.sh) <br>
@@ -10,6 +11,7 @@ Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de 
 [PetShop](FundamentosTI/exemplos/PetShop) <br>
 
 ### Lógica de Programação
+#### Todos os programas abaixos foram escritos usando java
 [Controle De Peso](LógicaDeProgramação/controleDePeso.java) <br>
 [Espelho](LógicaDeProgramação/espelho.java) <br>
 [Idade Scanner](LógicaDeProgramação/idadeScanner.java) <br>
