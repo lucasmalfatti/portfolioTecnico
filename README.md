@@ -19,3 +19,9 @@ Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de 
 <a href="https://github.com/lucasmalfatti/portfolioTecnico2A/tree/main/L%C3%B3gicaDePrograma%C3%A7%C3%A3o/CadastraAluno">Cadastro de Aluno</a>
 
 
+### Banco de Dados
+#### Todos as tabelas abaixos foram escritas usando sql
+
+
+
+
