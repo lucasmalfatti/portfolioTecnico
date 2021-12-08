@@ -2,6 +2,7 @@
 ## Lucas Malfatti Rieth 
 ### Sobre mim
 Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de Sistemas no Senai de São José.
+##Veja abaixo códigos escritos por mim!
 ### Fundamentos de TI
 #### Todos os programas abaixo foram escritos usando shell script
 [Vetores While](FundamentosTI/exemplos/VetoresWhile.sh) <br>
