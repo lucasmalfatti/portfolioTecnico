@@ -1,30 +1,28 @@
 import java.util.Scanner;
-
-public class Main
-{
-    Scanner sc = new Scanner(System.in);
+public class Main {
+Scanner leitor = new Scanner(System.in);
     
-	public static void main(String[] args) {
-        Main pescaria = new Main();
-        pescaria.controleDePeso();
-	}
-	
-	public void controleDePeso(){
-	    System.out.println("Digite seu nome!");
-	    String nome = sc.next();
-	    System.out.println(nome+", Seja bem vindo ao sistema de controle de peso!");
-	    float multa, peso, pesoPermitido, excesso;
-        System.out.println("Digite o peso permitido!");
-		pesoPermitido = sc.nextFloat();
-        System.out.println("Digite o peso pescado!");
-		peso = sc.nextFloat();
-		if(pesoPermitido < peso){
-		    excesso = peso - pesoPermitido;
-		    multa = excesso * 4;   
-		    System.out.println("Houve excesso de "+excesso+"kg, com multa de R$"+multa);
-		}
-		else{
-		    System.out.println("O pescador não vai pagar nada!");
-		}
-	}
+    public static void main(String[] args) {
+        Main sistema = new Main();
+        sistema.controleDePeso();
+    }
+    public void controleDePeso(){
+        System.out.println("Seja bem vindo ao nosso peso de malas!");
+        System.out.println("Digite seu nome para iniciarmos ");
+        String nome = leitor.next();
+        System.out.println("Muito bem, "+nome+" agora o peso da sua mala!, lembrando que ela não pode passar dos 30Kg");
+        float peso,pesoPermitido, multa, excesso;
+        peso = leitor.nextFloat();
+        pesoPermitido = 30;
+        excesso = peso - pesoPermitido;
+        multa = excesso * 2;
+        if(pesoPermitido < peso){
+            System.out.println("Sua mala passou da quantidade permitida, você tera que pagar "+multa+" reais de multa");
+        }
+        
+        else{       
+                System.out.println("Sua bagagem está dentro do limite!");
+            }
+        
+    }
 }
