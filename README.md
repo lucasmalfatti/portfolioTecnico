@@ -27,4 +27,4 @@ Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de 
 
 
 ### Mobile
-[Foto App](Mobile/AppFoto/src/) <br>
+[Foto App](Mobile/AppFoto/) <br>
