@@ -22,7 +22,7 @@ Tenho 16 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de 
 
 ### Banco de Dados
 #### Todos as tabelas abaixos foram escritas usando sql
-[Compra de Livros](FundamentoDeBD/compraDeLivros.sql) <br>
+[Livraria](FundamentoDeBD/compraDeLivros.sql) <br>
 
 
 
