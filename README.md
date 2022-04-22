@@ -27,4 +27,5 @@ Tenho 17 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de 
 [Zoológico](FundamentoDeBD/zoológico.sql) <br>
 
 ### Mobile
+#### O app abaixo foi escrito em Java, desenvolvido no Android Studio
 [Foto App](Mobile/AppFoto/) <br>
