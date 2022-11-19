@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398875173232",
+    "project_id": "urna-232f1",
+    "storage_bucket": "urna-232f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398875173232:android:b5dec6e59d4ddfd626efb5",
+        "android_client_info": {
+          "package_name": "com.example.urna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398875173232-um5bg3bf2s5ua289fk83ombu7alar1qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOvojyXK4YpPQA9rk7YudmkKZ8qL7TfmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398875173232-um5bg3bf2s5ua289fk83ombu7alar1qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
