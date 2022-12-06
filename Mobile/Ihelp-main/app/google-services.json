@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676016503331",
+    "firebase_url": "https://ihelp-be89b-default-rtdb.firebaseio.com",
+    "project_id": "ihelp-be89b",
+    "storage_bucket": "ihelp-be89b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676016503331:android:d2a7d8e84c4017252d4f96",
+        "android_client_info": {
+          "package_name": "com.example.ihelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676016503331-8tk61h4uobretqu6m8q0cior006cemec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANg4AH8Q0S-2-88HnVffPTLwpPhjvvmrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676016503331-8tk61h4uobretqu6m8q0cior006cemec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
