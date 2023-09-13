@@ -1,7 +1,7 @@
  # Portfólio Técnico 
 ## Lucas Malfatti Rieth 
 ### Sobre mim
-Tenho 17 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de Sistemas no Senai de São José.
+Tenho 18 anos, sou morador de Florianópolis. Estou cursando Desenvolvimento de Sistemas no Senai de Florianópolis.
 ## Veja abaixo códigos escritos por mim!
 ### Fundamentos de TI
 #### Todos os programas abaixo foram escritos usando shell script
